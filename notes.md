@@ -15,3 +15,5 @@ to firing up the virtual environment gives me this:
 in order to leave a virtual environment, use this command -> $ deactivate
 you should now be back to your "regular" terminal prompt, with no "(venv)" prepended
 
+#### In the Travis file, make sure and stick with python, not python3.
+
