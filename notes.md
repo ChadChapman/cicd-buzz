@@ -20,3 +20,6 @@ you should now be back to your "regular" terminal prompt, with no "(venv)" prepe
 
 #### Better Code Hub, pretty cool tool as well!
 
+make sure to stop the Flask server running local on :5000 before attempting to get the Docker container running on the same port.
+
+
