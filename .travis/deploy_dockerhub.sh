@@ -7,3 +7,5 @@ else
 fi
 docker build -f Dockerfile -t $TRAVIS_REPO_SLUG:$TAG .
 docker push $TRAVIS_REPO_SLUG
+
+# need to find a way to get travis branch to be all lower case
